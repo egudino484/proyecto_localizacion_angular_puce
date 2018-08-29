@@ -10,3 +10,21 @@
     messagingSenderId: "586598065591"
   };
   firebase.initializeApp(config);
+
+
+---- marichis 
+
+
+<script src="https://www.gstatic.com/firebasejs/5.4.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyD84c5uXptNfZa0UcaxvTuVZd2R3eTzvxA",
+    authDomain: "control-7c5d7.firebaseapp.com",
+    databaseURL: "https://control-7c5d7.firebaseio.com",
+    projectId: "control-7c5d7",
+    storageBucket: "control-7c5d7.appspot.com",
+    messagingSenderId: "635319972706"
+  };
+  firebase.initializeApp(config);
+</script>
